@@ -1,7 +1,7 @@
+http://david-sheep.github.io/about/index.html
 http://david-sheep.github.io/Gallery/index.html
 http://david-sheep.github.io/posts/52f7272d.html
 http://david-sheep.github.io/posts/4a17b156.html
-http://david-sheep.github.io/about/index.html
 http://david-sheep.github.io/link/index.html
 http://david-sheep.github.io/tags/index.html
 http://david-sheep.github.io/categories/index.html
